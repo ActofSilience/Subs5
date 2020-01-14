@@ -1,0 +1,12 @@
+Customer information: 
+ Name: Chad Berkin
+ Address: 555 Mountain View Road
+ City: Boise
+ State: ID
+ ZIP: 35288
+ Phone #: 2052225555
+
+ Order details: 
+ Sandwich type: x1 6 Inch Veggie Sub
+ Bread: Parmesean Bread
+ Beverage: Coffee
